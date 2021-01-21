@@ -1,11 +1,6 @@
 @font-face {
-    font-family: "MeharNastaliqWeb";
-    src: url("https://github.com/Gazi-Cloud/Fonts/blob/master/Mehar-Nastaleeq-v2.ttf") format("truetype"),
-        url("https://github.com/Gazi-Cloud/Fonts/blob/master/MeharNastaliqWeb.ttf") format("truetype"),
-        url("https://github.com/Gazi-Cloud/Fonts/blob/master/MeharNastaliqWeb.woff2") format("woff2"),
-        url("'https//github.com/Gazi-Cloud/Fonts/blob/master/MeharNastaliqWeb.woff") format("woff"),
-        url("https://github.com/Gazi-Cloud/Fonts/blob/master/MeharNastaliqWeb.eot") format("embedded-opentype"),
-        url("https://github.com/Gazi-Cloud/Fonts/blob/master/MeharNastaliqWeb.svg") format("svg");
+    font-family: "Mehr";
+    src: url("https://github.com/Gazi-Cloud/Fonts/blob/master/Mehr-v2.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
